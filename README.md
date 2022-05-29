@@ -9,6 +9,7 @@ Pada gambar, dapat dilihat bahwa nilai dari standard deviasi selisih sebelum dan
 ## Soal 2
 
 ![image](https://user-images.githubusercontent.com/88140623/170880518-4ea424c7-06d3-4bb6-8a11-f06f719a11e1.png)
+Pada gambar, dapat dilihat bahwa nilai TScore yaitu 1.644, dan nilai Z-nya yaitu 8.974. Dikarenakan nilai Z berada di dalam range penerimaan (> -1.660), maka pernyataan awal mengenai rata-rata jarak kemudi mobil > 20.000km per tahun dapat disetujui karena setelah diuji ternyata tolak H0 (z>Z.alpha) sehingga.
 
 ## Soal 3
 
